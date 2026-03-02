@@ -32,7 +32,7 @@ export function Navbar() {
             <span className="text-gray-900 dark:text-white hidden sm:block">
               <span className="text-indigo-600 dark:text-indigo-400">Phone</span>Lens
               <span className="ml-1.5 text-xs bg-indigo-100 dark:bg-indigo-900 text-indigo-600 dark:text-indigo-400 px-1.5 py-0.5 rounded-md">AI</span>
-            </span>yy
+            </span>
           </Link>
 
           {/* Desktop Nav */}
